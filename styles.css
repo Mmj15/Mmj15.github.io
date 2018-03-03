@@ -1,9 +1,12 @@
 img {
-    width: 200px;
+    width: 250px;
 }
 body {
     text-align: center;
     font-family: "Comic Sans MS";
+    font-size: 20;
     color: orange;
-    background-color: azure;
+    background-color: #fff;
+    background-image: url(https://giphy.com/gifs/tech-1aIX95JPJddFm);
+    
 }
